@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">By clicking here you are going to download the N.E.A.K. OTA Updater App</string>
+    <string name="app_name">NEAK Downloader</string>
+    <string name="app_url">http://mirror.zantekk.de/neak/ota-app-builds/NEAK-OTA-Updater.apk</string>
+    <string name="app_path">/sdcard/NEAK-OTA-Updater.apk</string>
+    <string name="app_final">/data/app/NEAK-OTA-Updater.apk</string>
+    <string name="hello2">Please be sure you are connected to internet via WiFi or 3G</string>
+    <string name="buttontext">DOWNLOAD AND INSTALL APP</string>
+    <string name="warning">After the installation, you can safely uninstall this app! :D</string>
+
+</resources>
